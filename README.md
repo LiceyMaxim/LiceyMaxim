@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=default&font=source_code_pro&extension=null)
+![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null)
