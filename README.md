@@ -1,14 +1,14 @@
-# Hi there, I'm [Maxim](https://t.me/licey_maxim) ![_](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
+# Hi there, I'm [Maxim](https://t.me/licey_maxim) <img src="images/wave.gif" height=30 width=30>
 
 ![_](https://komarev.com/ghpvc/?username=l&color=brightgreen)
 
 ## This is my github and here I post everything that I'm not afraid to show people. I'm just starting to get into programming, so don't judge strictly
 
-## My CV (no projects)
+## **My CV (no projects)**
 
 > ## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing)
 
-## My leetcode statistic
+## **My leetcode statistic**
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null)
 
@@ -18,7 +18,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LiceyMaxim)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-## Learning
+## **Learning**
 
 >### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
 
@@ -30,7 +30,7 @@
 
 > #### Python, C++
 
-## Machine learning
+## **Machine learning**
 
 > ### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
 
@@ -44,6 +44,6 @@
 
 > #### Python, creating metrics
 
-## Random quote
+## **Random quote**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
