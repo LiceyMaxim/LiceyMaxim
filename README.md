@@ -12,37 +12,31 @@
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null)
 
-<!-- ## Funny github statistic
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiceyMaxim)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=LiceyMaxim)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 ## **Learning**
 
->### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
+* ### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
 
-> #### C, C++
+* #### C, C++
 
 ####
 
-> ### [Algorithms and data structures](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester)
+* ### [Algorithms and data structures](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester)
 
-> #### Python, C++
+* #### Python, C++
 
 ## **Machine learning**
 
-> ### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
+* ### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
 
-> #### EDA, linear models, baseline, features engineering
+* #### EDA, linear models, baseline, features engineering
 
-> ### [Predict Future Sales (Kaggle)](https://github.com/LiceyMaxim/Predict-Future-Sales/)
+* ### [Predict Future Sales (Kaggle)](https://github.com/LiceyMaxim/Predict-Future-Sales/)
 
-> #### Feature Pre-processing, XGBoost, features engineering
+* #### Feature Pre-processing, XGBoost, features engineering
 
-> ### [Plagchecker](https://github.com/LiceyMaxim/plagchecker)
+* ### [Plagchecker](https://github.com/LiceyMaxim/plagchecker)
 
-> #### Python, creating metrics
+* #### Python, creating metrics
 
 ## **Random quote**
 
