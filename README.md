@@ -4,13 +4,9 @@
 
 ## This is my github and here I post everything that I'm not afraid to show people. I'm just starting to get into programming, so don't judge strictly
 
----
-
 ## My CV (no projects)
 
 ## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing)
-
----
 
 ## My leetcode statistic
 
@@ -22,8 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=LiceyMaxim)](https://github.com/ryo-ma/github-profile-trophy) -->
 
----
-
 ## Learning
 
 ### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
@@ -33,8 +27,6 @@
 ### [Algorithms and data structures](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester)
 
 #### Python, C++
-
----
 
 ## Machine learning
 
@@ -49,8 +41,6 @@
 ### [Plagchecker](https://github.com/LiceyMaxim/plagchecker)
 
 #### Python, creating metrics
-
----
 
 ## Random quote
 
