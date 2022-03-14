@@ -6,7 +6,7 @@
 
 ## My CV (no projects)
 
-## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing)
+> ## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing)
 
 ## My leetcode statistic
 
@@ -20,27 +20,29 @@
 
 ## Learning
 
-### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
+>### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
 
-#### C, C++
+> #### C, C++
 
-### [Algorithms and data structures](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester)
+####
 
-#### Python, C++
+> ### [Algorithms and data structures](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester)
+
+> #### Python, C++
 
 ## Machine learning
 
-### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
+> ### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
 
-#### EDA, linear models, baseline, features engineering
+> #### EDA, linear models, baseline, features engineering
 
-### [Predict Future Sales (Kaggle)](https://github.com/LiceyMaxim/Predict-Future-Sales/)
+> ### [Predict Future Sales (Kaggle)](https://github.com/LiceyMaxim/Predict-Future-Sales/)
 
-#### Feature Pre-processing, XGBoost, features engineering
+> #### Feature Pre-processing, XGBoost, features engineering
 
-### [Plagchecker](https://github.com/LiceyMaxim/plagchecker)
+> ### [Plagchecker](https://github.com/LiceyMaxim/plagchecker)
 
-#### Python, creating metrics
+> #### Python, creating metrics
 
 ## Random quote
 
