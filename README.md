@@ -6,11 +6,11 @@
 
 ## **My CV (no projects)**
 
-> ## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing)
+* ## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing)
 
 ## **My leetcode statistic**
 
-![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null)
+* ![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null)
 
 ## **Learning**
 
