@@ -26,6 +26,10 @@
 
 ## **Machine learning**
 
+* ### [MovieLens 20M (VK CoreML)](https://github.com/LiceyMaxim/VK_CoreML)
+
+* #### ResSys, Cold Start, SVD, LightFM
+
 * ### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
 
 * #### EDA, linear models, baseline, features engineering
