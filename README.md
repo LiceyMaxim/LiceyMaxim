@@ -30,6 +30,10 @@
 
 * #### ResSys, Cold Start, SVD, LightFM
 
+* ### [Fake news detection (Contur)](https://github.com/LiceyMaxim/Contur)
+
+* #### NLP, RuBERT, Russian Sensitive Topics
+
 * ### [[SF-DST] Credit Scoring (Kaggle)](https://github.com/LiceyMaxim/-SF-DST-Credit-Scoring)
 
 * #### EDA, linear models, baseline, features engineering
