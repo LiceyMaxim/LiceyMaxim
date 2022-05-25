@@ -24,6 +24,10 @@
 
 * #### Python, C++
 
+* ### [Modeling physic](https://github.com/LiceyMaxim/threebodytask)
+
+* #### Python, numpy, matplotlib
+
 ## **Machine learning**
 
 * ### [MovieLens 20M (VK CoreML)](https://github.com/LiceyMaxim/VK_CoreML)
