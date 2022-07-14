@@ -12,22 +12,6 @@
 
 * ![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null) -->
 
-## **Learning**
-
-<!-- * ### [Programming ITMO](https://github.com/LiceyMaxim/Programming-1-semester)
-
-* #### C, C++ -->
-
-####
-
-* ### [Algorithms and data structures](https://github.com/LiceyMaxim/Algorithms-and-data-structures-1-semester)
-
-* #### Python, C++
-
-* ### [Modeling physic](https://github.com/LiceyMaxim/threebodytask)
-
-* #### Python, numpy, matplotlib
-
 ## **Machine learning**
 
 * ### [MovieLens 20M (VK CoreML)](https://github.com/LiceyMaxim/VK_CoreML)
@@ -49,6 +33,13 @@
 * ### [Plagchecker](https://github.com/LiceyMaxim/plagchecker)
 
 * #### Python, creating metrics
+
+## **Other**
+
+
+* ### [Modeling physic](https://github.com/LiceyMaxim/threebodytask)
+
+* #### Python, numpy, matplotlib
 
 ## **Random quote**
 
