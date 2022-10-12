@@ -16,7 +16,7 @@
 
 * ### [MovieLens 20M (VK CoreML)](https://github.com/LiceyMaxim/VK_CoreML)
 
-* #### ResSys, Cold Start, SVD, LightFM
+* #### RecSys, Cold Start, SVD, LightFM
 
 * ### [Fake news detection (Contur)](https://github.com/LiceyMaxim/Contur)
 
