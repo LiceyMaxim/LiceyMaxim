@@ -2,15 +2,7 @@
 
 ![_](https://komarev.com/ghpvc/?username=l&color=brightgreen)
 
-<!-- ## This is my github and here I post everything that I'm not afraid to show people. I'm just starting to get into programming, so don't judge strictly
-
-## **My CV (no projects)**
-
-* ## [link](https://drive.google.com/file/d/1jhrcZmew7Q89kcDh1qKXyO4-JDQUKzmZ/view?usp=sharing) -->
-
-<!-- ## **My leetcode statistic**
-
-* ![Leetcode Stats](https://leetcode.card.workers.dev/LiceyMax?theme=dark&font=source_code_pro&extension=null) -->
+<!-- ## This is my github and here I post everything that I'm not afraid to show people. I'm just starting to get into programming, so don't judge strictly -->
 
 ## **Machine learning**
 
